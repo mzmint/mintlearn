@@ -1,0 +1,33 @@
+{
+	"title": "Lisbon basics",
+	"question_count": 3,
+	"lessons": [
+		{
+			"question": "Which river flows through Lisbon?",
+			"correct": 2,
+			"options": [
+				"Douro",
+				"Tejo",
+				"Mondego"
+			]
+		},
+		{
+			"question": "What is the famous custard tart called?",
+			"correct": 1,
+			"options": [
+				"Pastel de nata",
+				"Bolo rei",
+				"Queijada",
+				"Travesseiro"
+			]
+		},
+		{
+			"question": "Lisbon is the capital of Portugal.",
+			"correct": 1,
+			"options": [
+				"True",
+				"False"
+			]
+		}
+	]
+}
